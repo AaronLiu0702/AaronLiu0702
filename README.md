@@ -1,9 +1,7 @@
 # 👋 About me
 
 Hi! I'm Junlin Liu, a graduate student majoring in Artificial Intelligence at the **[Institute of Automation Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/)**, and the **[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/)**.
-
 I’m currently a research intern focusing on mathematical and general reasoning research at [Meituan LongCat Team](https://github.com/meituan-longcat). Previously, I held research intern positions at the Baidu Ernie Team and X-Humanoid LLM Team. 
-
 My research interests include reinforcement learning, large language models and multi-agent cooperation and games. I am particularly interested in evaluating and improving the reasoning capabilities of foundation models, with a focus on challenging mathematical and general reasoning.
 
 
@@ -11,6 +9,14 @@ My research interests include reinforcement learning, large language models and 
 - **2026.03:**  ✈️✈️  One paper has been accepted by **IJCNN 2026!**  ACE-MAPPO !
 - **2025.10:**  📐📐  We released [**AMO-Bench**](https://amo-bench.github.io/), a comprehensive benchmark for pushing the boundaries of mathematical reasoning in LLMs.
 - **2025.06:**  🎉🎉  I received my B.E. degree from Sichuan Agricultural University (SICAU), awarded the Outstanding Graduate and Outstanding Thesis Award, ranking **1<sup>st</sup>**/198 in overall GPA for three years (2022-2025) !  **[🌟🌟Student Spotlight🌟🌟](https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w)**
+
+# 🏆 Honors and Awards
+- **2025.06**, Outstanding Graduates of Sichuan Province, China (Top 2%).
+- **2025.06**, Outstanding Graduation Thesis (Top 1%).
+- **2024.12**, Outstanding Student Model (The highest honor of the university, awarded to only 10 students).
+- **2024.12**, China National Scholarship (Top 0.2%).
+- **2023.12**, Outstanding Student Scholarship (Top 1%).
+
 
 
 <!--
