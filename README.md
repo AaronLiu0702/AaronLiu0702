@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 About me
+Hi! I’m Junlin Liu, a graduate student majoring in Artificial Intelligence at the Institute of Automation Chinese Academy of Sciences (CASIA), and the University of Chinese Academy of Sciences (UCAS).
+
+
 
 <!--
 **AaronLiu0702/AaronLiu0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
