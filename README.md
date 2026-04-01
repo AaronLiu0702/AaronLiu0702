@@ -6,6 +6,8 @@ I’m currently a research intern focusing on mathematical and general reasoning
 
 My research interests include reinforcement learning, large language models and multi-agent cooperation and games. I am particularly interested in evaluating and improving the reasoning capabilities of foundation models, with a focus on challenging mathematical and general reasoning.
 
+💬 Please feel free to add me on WeChat: [**AaronLiu0702**]().
+
 
 # 🔥 News
 - **2026.03:**  🧩🧩  We released **General365**, advancing LLM reasoning beyond domain-specific tasks toward general real-world scenarios.
