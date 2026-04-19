@@ -17,7 +17,8 @@ My research interests include reinforcement learning, large language models and 
 - **2025.06:**  🎉🎉  I received my B.E. degree from Sichuan Agricultural University (SICAU), awarded the Outstanding Graduate and Outstanding Thesis Award, ranking **1<sup>st</sup>**/198 in overall GPA for three years (2022-2025) !  **[🌟🌟Student Spotlight🌟🌟](https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w)**
 
 # 🎫 Academic Activities
-- **2026.03**, BeiJing, <span style="color:red">**Tencent QingYun Program**</span> "Stars of the Future: Technology Exchange Exhibition".
+- **2026.03**, BeiJing, <span style="color:red">**Tencent QingYun Program**</span>, "Stars of the Future: Technology Exchange Exhibition".
+- **2025.09**, BeiJing, <span style="color:red">**Wave Summit 2025**</span>, Deep Learning Developers Conference.
 
 # 🏆 Honors and Awards
 - **2025.06**, Outstanding Graduates of Sichuan Province, China (Top 2%).
