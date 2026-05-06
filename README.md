@@ -4,12 +4,16 @@ Hi! I'm Junlin Liu, a graduate student majoring in Artificial Intelligence at th
 
 I’m currently a research intern focusing on Agentic RL and Agent Self-Evolution at [**Alibaba Qwen MOS Lab**](https://github.com/Qwen-Applications). Previously, I held research intern positions at [**Meituan LongCat Team**](https://github.com/meituan-longcat), [**Baidu Ernie Team**](https://github.com/ernie-research) and [**X-Humanoid LLM Team**](https://github.com/Open-X-Humanoid). 
 
-My research interests include reinforcement learning, large language models and multi-agent cooperation and games. I am particularly interested in evaluating and improving the reasoning capabilities of foundation models, with a focus on challenging mathematical and general reasoning.
+**Research Interests：**
+- **🧬 Self-Evolving Agent** — Building adaptive autonomous agents that continuously improve through RL and agent–environment co-evolution.
+- **🤖 Agentic Reinforcement Learning** — Training general agent intelligence via fundamental RL-based optimization.
+- **🔬 LLM Evaluation and Benchmark** — Evaluating and improving the reasoning capabilities of foundation models. 
 
 💬 Please feel free to add me on WeChat: [**AaronLiu0702**](https://github.com/AaronLiu0702/AaronLiu0702.github.io/blob/main/images/wx.png).
 
 
 # 🔥 News
+- **2026.05:**  🎤🎤  I was honored to be invited to participate in the **<span style="color:red">"AI Talent Corner"</span>** at VALSE 2026!
 - **2026.04:**  🧩🧩  We released [**General365**](https://general365.github.io/), advancing LLM reasoning beyond domain-specific tasks toward general real-world scenarios.
 - **2026.04:**  🎉🎉  One paper has been accepted by **<span style="color:red">ACL 2026</span>**! [**AMO-Bench**](https://amo-bench.github.io/)！
 - **2026.03:**  ✈️✈️  One paper has been accepted by **IJCNN 2026**! **ACE-MAPPO**！
@@ -17,6 +21,7 @@ My research interests include reinforcement learning, large language models and 
 - **2025.06:**  🎉🎉  I received my B.E. degree from Sichuan Agricultural University (SICAU), awarded the Outstanding Graduate and Outstanding Thesis Award, ranking **1<sup>st</sup>**/198 in overall GPA for three years (2022-2025) !  **[🌟🌟Student Spotlight🌟🌟](https://mp.weixin.qq.com/s/M3Csv3M7xnbveIlspLem6w)**
 
 # 🎫 Academic Activities
+- **2026.05**, Wuhan, **<span style="color:red">"AI Talent Corner"</span>** at VALSE 2026.
 - **2026.03**, BeiJing, <span style="color:red">**Tencent QingYun Program**</span>, "Stars of the Future: Technology Exchange Exhibition".
 - **2025.09**, BeiJing, <span style="color:red">**Wave Summit 2025**</span>, Deep Learning Developers Conference.
 
