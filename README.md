@@ -5,7 +5,7 @@ Hi! I'm Junlin Liu, a graduate student majoring in Artificial Intelligence at th
 I’m currently a research intern focusing on Agentic RL and Agent Self-Evolution at [**Alibaba Qwen MOS Lab**](https://github.com/Qwen-Applications). Previously, I held research intern positions at [**Meituan LongCat Team**](https://github.com/meituan-longcat), [**Baidu Ernie Team**](https://github.com/ernie-research) and [**X-Humanoid LLM Team**](https://github.com/Open-X-Humanoid). 
 
 **Research Interests：**
-- **🧬 Self-Evolving Agent** — Building adaptive autonomous agents that continuously improve through RL and agent–environment co-evolution.
+- **🧬 Self-Evolving Agent** — Building adaptive autonomous agents that continuously improve through RL.
 - **🤖 Agentic Reinforcement Learning** — Training general agent intelligence via fundamental RL-based optimization.
 - **🔬 LLM Evaluation and Benchmark** — Evaluating and improving the reasoning capabilities of foundation models. 
 
